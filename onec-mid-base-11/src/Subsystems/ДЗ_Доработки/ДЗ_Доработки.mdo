@@ -9,4 +9,5 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Catalog.ДЗ_КонтактныеЛица</content>
   <content>Catalog.ДЗ_Должность</content>
+  <content>Document.ЗаказПокупателя</content>
 </mdclass:Subsystem>
